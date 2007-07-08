@@ -40,6 +40,7 @@ public class MCAR {
   }
   //Main method
   public static void main(String[] args) {
+	  System.out.println("DONE !");
     try {
       UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
     }
